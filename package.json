@@ -1,0 +1,17 @@
+{
+    "dependencies": {
+        "express": "^4.17.1",
+        "knex": "^0.95.14",
+        "sqlite3": "^5.0.2"
+    },
+    "name": "Tribuna Almense",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Rinaldo Moreira da Nóbrega",
+    "license": "ISC",
+    "description": "Esse site será para busca de noticias, sendo o primeiro projeto de api produzido até então"
+}
